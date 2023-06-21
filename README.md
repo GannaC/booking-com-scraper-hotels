@@ -1,5 +1,5 @@
 # Booking.com website scraper
-This web scraper is designed to extract comprehensive information about accommodations from various booking sites. It allows users to choose a specific country and then downloads all available accommodation details, saving them neatly in a file for further analysis.
+This web scraper is designed to extract comprehensive information about accommodations from Booking.com website. It allows users to choose a specific country and then downloads all available accommodation details, saving them in a file for further analysis.
 
 ## Installation
 To install and set up the scraper, follow these steps:
