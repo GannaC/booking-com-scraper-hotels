@@ -18,4 +18,4 @@ Run the command: `activate-global-python-argcomplete`
 Open a new terminal window to ensure the updated settings take effect.
 
 ## Disclaimer
-Please note that the data fetched from Booking.com and other booking sites is intended for personal use only. Any commercial or unauthorized use of the obtained information may infringe upon the respective websites' terms of service and legal regulations. Always ensure compliance with applicable laws and regulations when using the scraped data.
+Please note that the data fetched from Booking.com and other booking sites is intended for personal use only. Any commercial or unauthorized use of the obtained information may infringe upon the respective websites' terms of service and legal regulations. Always ensure compliance with applicable laws and regulations when using the scraped data
